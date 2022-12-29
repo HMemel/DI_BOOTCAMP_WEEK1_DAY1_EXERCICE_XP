@@ -1,0 +1,62 @@
+/* Container */
+body{
+    margin: 0;
+    padding: 0;
+}
+/* Section About */
+.about_{
+    text-align: justify;
+    font-family: 'Times New Roman', Times, serif;
+}
+#breed{
+    background-color: #ffd900;
+}
+.sense{
+    text-decoration: underline;
+    font-size: 20px;
+    margin-left: 60px;
+}
+ul{
+    margin-left: 70px;
+}
+/* Section Image Cat */
+#cat_{
+    text-align: center;
+}
+.cat_{
+    width: 30%;
+    height: 30%;
+    border: 5px solid #fa6f04;
+    margin: 5px 0px 4px 0px;
+}
+/* Section About */
+.description_{
+    font-size: 20px;
+    text-align: justify;
+}
+table{
+    margin-left: 50px;
+	margin: 80px;
+    align-items: center;
+}
+caption{
+	font-size: 20px;
+	margin-bottom: 15px;
+	padding: 5px;
+	color: #ff0000;
+}
+caption,th,tr,td{
+	border: 2px solid;
+}
+/* Section Image Lion */
+#lion_{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+.lion_{
+    width: 25%;
+    height: 25%;
+    border: 5px solid #fa6f04;
+    margin: 5px 0px 4px 0px;
+}
